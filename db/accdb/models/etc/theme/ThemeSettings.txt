@@ -1,0 +1,68 @@
+BudgetExecutionDarkmode
+
+
+Light 1:
+
+RGB	RGB(255, 255, 255)
+HEX	#FFFFFF
+
+Light 2:
+
+RGB	RGB(250, 250, 250)
+HEX	#FAFAFA
+
+
+Dark 1:
+
+RGB	RGB(15, 15, 15)
+HEX	#0F0F0F
+
+Dark 2:
+
+RGB	RGB(52, 52, 52)
+HEX	#343434
+
+Accent 1:
+(Med Blue)
+
+RGB	RGB(68, 114, 196)
+HEX	#4472C4
+
+Accent 2:
+(Dark Yellow)
+
+RGB	RGB(78, 78, 0)
+HEX	#4E4E00
+
+Accent 3:
+(Dark Blue)
+
+RGB	RGB(31, 56, 100)
+HEX	#1F3864
+
+Accent 4:
+
+RGB	RGB()
+HEX
+
+Accent 5:
+
+RGB	RGB()
+HEX
+
+Accent 6:
+
+RGB	RGB()
+HEX
+
+
+Hyperlink:
+
+RGB	RGB(5, 99, 193)
+HEX	#0563C1
+
+
+Followed Hyperlink:
+
+RGB	RGB(149, 79, 114)
+HEX	#954F72
